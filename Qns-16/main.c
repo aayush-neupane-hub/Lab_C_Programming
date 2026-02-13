@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-
+    
     int i =1;
 
     // Loop that causes an infinite loop unintentionally due to missing condition update
